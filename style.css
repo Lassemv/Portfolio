@@ -1,0 +1,20 @@
+body{
+    background-color: #FBD8AB;
+}
+p.pfirst{
+    background: rgb(174, 154, 249, 0.4);
+}
+h1.h1first{
+    background: rgb(174, 154, 249, 0.4);   
+}
+h2.h2first{
+    background: rgb(174, 154, 249, 0.4);
+}
+h3.h3first{
+    background: rgb(174, 154, 249, 0.4);
+}
+footer{
+    background-color: #F8C6F9;
+    box-sizing: border-box;
+}
+
