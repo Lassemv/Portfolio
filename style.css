@@ -72,7 +72,7 @@ h3.h3first{
     text-align: center;  
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
     font-size: 28px;
-    max-width: 500px; 
+    max-width: 700px; 
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -91,6 +91,14 @@ img.imgfirst{
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+@media screen and (min-width: 500px){
+img.imgsecond{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;    
+}
 }
 section.sectionfirst{
     background-image: url(./images/minvækcolage.PNG);
