@@ -4,15 +4,22 @@ body{
 p.pfirst{
     background: rgb(174, 154, 249, 0.4);
 }
+/*Jeg lærte at lave en border til min text hved hjælp af dette link https://stackoverflow.com/questions/2570972/css-font-border*/
+/*Jeg lærte at lave opacity om hved hjælp af w3school, hvilket er hvorfor p har en class*/
 h1.h1first{
     background: rgb(174, 154, 249, 0.4);
-    color: #F8C6F9;   
+    color: #F8C6F9;
+    -webkit-text-stroke: 2px black;   
 }
 h2.h2first{
     background: rgb(174, 154, 249, 0.4);
+    color: #F8C6F9;
+    -webkit-text-stroke: 2px black;  
 }
 h3.h3first{
     background: rgb(174, 154, 249, 0.4);
+    color: #F8C6F9;
+    -webkit-text-stroke: 2px black;  
 }
 nav{
     background-color: #F8C6F9;
@@ -30,6 +37,12 @@ section.sectionfirst{
     background-size: cover;
     width: 400px;
     height: 420px;
+}
+section.sectionsecond{
+    background-image: url(./images/minamiazabu.jpg);
+    background-size: cover;
+    width: 430px;
+    height: 300px;    
 }
 footer{
     background-color: #F8C6F9;
