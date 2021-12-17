@@ -13,6 +13,17 @@ h2.h2first{
 h3.h3first{
     background: rgb(174, 154, 249, 0.4);
 }
+nav{
+    background-color: #F8C6F9;
+}
+a{
+    background-color: #AE9AF9;
+}
+img.imgfirst{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 footer{
     background-color: #F8C6F9;
     box-sizing: border-box;
